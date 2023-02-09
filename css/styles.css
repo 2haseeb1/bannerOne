@@ -148,7 +148,7 @@ footer{
 }
 .footer-align{
     display: flex;
-    gap:300px;
+    gap:100px;
     
 }
 .footer-title{
