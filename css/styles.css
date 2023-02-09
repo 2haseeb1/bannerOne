@@ -71,7 +71,7 @@ color:#151414;
     margin-left: 200px;
     width:90% ;
     height:250px ;
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(252, 50, 5, 0.847)),url('../images/Rectangle\ 3.png');
+    background-image:linear-gradient(to left,rgba(0,0,0,0.7),rgba(252, 50, 5, 0.938)),url('../images/Rectangle\ 3.png');
     background-repeat: no-repeat;
     background-size: 80% 100%;
 }
