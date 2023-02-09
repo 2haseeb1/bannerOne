@@ -222,3 +222,21 @@ color:#f3f3f3;
 padding-left: 10px;
 
   }
+  .newslater{
+    
+        margin-top: 100px;
+        margin-left: 200px;
+        width:90% ;
+        height:250px ;
+        background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(253, 255, 105, 0.067)),url('../—Pngtree—award badge symbol design template_5974713.png');
+        background-repeat: no-repeat;
+        background-size: 80% 100%;
+   
+  }
+
+  .newslater-title{
+    font-size: 45px;
+    color:#f3f3f3;
+    font-weight: 700;
+   margin-left:220px;
+  }
