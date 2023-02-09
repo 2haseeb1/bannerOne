@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'work sans',sans-serif;
+}
+.banner{
+    display: flex;
+}
+.banner-info{
+    margin-top: 130px;
+    margin-right: 200px;
+    margin-left: 130px;
+}
+.banner-title{
+font-size: 65px;
+font-weight: 700;
+line-height: 76px;
+color:#151414;
+
+
+}
+.banner-description{
+    
+    font-size: 16px;
+    font-weight: 400;
+    color: #444343;
+
+    
+
+}
+.banner-image{
+    margin-right: 200px;
+}
+.btn{
+    background: #F15B22;
+    height: 64px;
+    color:#fff;
+    border:0;
+    padding: 21px 26px;
+    margin-top:20px;
+    border-radius: 5px;
+    
+    
+}
+
+.btn:focus {
+    outline: none;
+  }
