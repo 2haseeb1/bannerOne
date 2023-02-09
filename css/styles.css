@@ -133,9 +133,33 @@ margin-top: 26px;
 
 }
 
-.footer{
-    width:100%
-     height:600px;
-     background: #000;
-}
+/* footer style */
 
+footer{
+    height: 550px;
+    
+    background: #000;
+    color:#fff;
+    padding: 100px;
+}
+.footer-align{
+    display: flex;
+    gap:300px;
+}
+.footer-title{
+   
+font-size: 45px;
+font-weight: 700;
+color:#F8F8F8;
+
+
+}
+.footer-description{
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+color:#FFFFFF;
+
+
+
+}
