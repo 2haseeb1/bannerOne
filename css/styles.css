@@ -136,15 +136,20 @@ margin-top: 26px;
 /* footer style */
 
 footer{
-    height: 550px;
+    max-height: 400px;
     
     background: #000;
     color:#fff;
-    padding: 100px;
+    padding-top: 213px;
+    padding-left: 277px;
+    padding-right:213px;
+    padding-bottom: 160px;
+    margin-top: 30px;
 }
 .footer-align{
     display: flex;
     gap:300px;
+    
 }
 .footer-title{
    
@@ -153,6 +158,10 @@ font-weight: 700;
 color:#F8F8F8;
 
 
+}
+.footer-email,.footer-phone{
+    line-height:280%;
+    
 }
 .footer-description{
 font-size: 16px;
@@ -163,3 +172,53 @@ color:#FFFFFF;
 
 
 }
+.img-footer{
+    width:47px;
+    margin-right: 20px;
+}
+.input-btn{
+    margin: 0;
+}
+.subscribe-btn{
+    height: 64px;
+    padding: 23px 36px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F15B22;
+    border-radius: 8px;
+
+
+}
+label{
+    color:#fff;
+    margin-top: 210px;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+input[type="text"]{
+    color:#fff;
+    background: #000;
+    border:1.3px solid #f3f3f3;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    margin-top: 21px;
+    margin-bottom: 20px;
+}
+
+
+::placeholder {
+font-size: 18px;
+font-weight: 400;
+color:#f3f3f3;
+padding-left: 10px;
+
+  }
