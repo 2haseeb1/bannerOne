@@ -46,3 +46,43 @@ color:#151414;
 .btn:focus {
     outline: none;
   }
+.about-me{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 130px;
+    gap:87px;
+}
+.bio{
+    margin-right: 120px;
+}
+.plans-title{
+    text-align: center;
+}
+.plans-detail{
+    display: flex;
+    justify-content: space-between;
+    margin:100px 130px;
+    align-items: center;
+}
+
+ .plans-main-image{
+    margin-top: 100px;
+    margin-left: 200px;
+    width:90% ;
+    height:250px ;
+    background-image: url('../images/Rectangle\ 3.png');
+    background-repeat: no-repeat;
+    background-size: 80% 100%;
+}
+.img-title{
+    margin-top: 15px;
+    font-family: Work Sans;
+font-size: 30px;
+font-weight: 700;
+color: #151414;
+;
+}
+
+
+
